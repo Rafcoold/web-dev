@@ -1,0 +1,65 @@
+.nav-bar-cont{
+    padding-left: 2rem;
+}
+
+.airbn-logo{
+    color: #fff;
+    font-size: 2.5em;
+    padding-right: 2rem;
+}
+
+
+.profile-img{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+
+.cont-carousel-1{
+    background-color: rgba(33, 37, 41, 0.5);
+    padding: 1rem 0.5rem;
+    border-radius: 1rem;
+    color: #fff;
+}
+
+.a-jumbo{
+    text-decoration: none;
+    color: white;
+}
+
+.a-jumbo-2{
+    text-decoration: none;
+    color:black;
+}
+
+.card-img-own{
+    background-repeat: round;
+    border-color: #fff;
+    cursor: pointer;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.card-img-own:hover{
+
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+
+.cont-carousel{
+    background-color: rgba(33, 37, 41, 0.5);
+    padding: 1rem 0.5rem;
+    border-radius: 1rem;
+    color: #fff;
+}
+
+.cont-carousel:hover{
+    opacity: 0;
+}
